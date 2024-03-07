@@ -3,3 +3,4 @@ topology:
   nodes:
     ros:
       kind: mikrotik_ros
+      image: vrnetlab/vr-routeros
