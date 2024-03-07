@@ -7,5 +7,5 @@ topology:
     PC1:
       kind: linux
       image: praqma/network-multitool:latest
-links:
+  links:
     - endpoints: ["router:eth2", "PC1:eth2"]   
