@@ -1,0 +1,5 @@
+name: ros_lab
+topology:
+  nodes:
+    ros:
+      kind: mikrotik_ros
